@@ -62,24 +62,6 @@ mi hobbie es crear apps randoms que se me ocurren a las 1am como [**joseodle**](
 | [**mcsr hispano**](https://github.com/fqkeeh/mcsr-hispano) | plataforma de recursos para la comunidad hispana de speedrunners de minecraft. guías, recursos y rankings. | astro, react, ts, node.js |
 | **mods de minecraft** | cada tanto me da por crear mods randoms. | java |
 
----
-
-## contacto
-
-<div align="left">
-  <a href="https://fqkeeh.dev" target="_blank" rel="noopener noreferrer me">
-    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=about-me&logoColor=white&color=b85c38" alt="portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/felipefigueroaf/" target="_blank" rel="noopener noreferrer me">
-    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://twitter.com/fqkeh_" target="_blank" rel="noopener noreferrer me">
-    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
-  <a href="mailto:felipe@rodar.cl" target="_blank">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-</div>
 
 ---
 
