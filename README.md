@@ -53,13 +53,13 @@ mi hobbie es crear apps randoms que se me ocurren a las 1am como [**joseodle**](
 |----------|-------------|-------|
 | [**rodar**](https://rodar.cl) | ecosistema fintech para automotoras en chile. financiamiento sobre flota, inteligencia de mercado y erp. | react, ts, python |
 | [**kerokero**](https://keroke.ro) | software factory totalmente automatizada. el cliente elige funcionalidades y monitorea avance en tiempo real. | react, ts, node.js |
-| **kerocode** | un fork de opencode que ayuda a conectar requerimientos de clientes con developers de manera automatica y enfocada en equipos | ts, node.js, python |
+| **kerocode** | un fork de opencode que ayuda a conectar requerimientos de clientes con developers de manera automatica y enfocada en equipos | ts, solidjs, bun |
 ### personales
 
 | proyecto | descripción | stack |
 |----------|-------------|-------|
-| [**joseodle**](https://github.com/fqkeeh/joseodle) | minijuego en el que tu objetivo es adivinar emotes de **7tv** | astro, react, ts |
-| [**mcsr hispano**](https://github.com/fqkeeh/mcsr-hispano) | plataforma de recursos para la comunidad hispana de speedrunners de minecraft. guías, recursos y rankings. | astro, react, ts, node.js |
+| [**joseodle**](https://github.com/fqkeeh/joseodle) | minijuego en el que tu objetivo es adivinar emotes de **7tv** | svelte, supabase, socketio |
+| [**mcsr hispano**](https://github.com/fqkeeh/mcsr-hispano) | plataforma de recursos para la comunidad hispana de speedrunners de minecraft. guías, recursos y rankings. | astro |
 | **mods de minecraft** | cada tanto me da por crear mods randoms. | java |
 
 
