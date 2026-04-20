@@ -65,10 +65,6 @@ mi hobbie es crear apps randoms que se me ocurren a las 1am como [**joseodle**](
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fqkeeh&color=b85c38&style=flat-square" alt="visitas al perfil" />
-</div>
-
 <p align="center">
   <em>construyendo software que escala y genera valor real.</em>
 </p>
