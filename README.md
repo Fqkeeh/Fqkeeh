@@ -12,7 +12,7 @@ soy **cto y cofundador** de [**rodar**](https://rodar.cl) y [**kerokero**](https
 
 uso **react y typescript** en el frontend, y **fastify, node.js y fastapi** en el backend. mi obsesión real está en **scrapear información** y hacer **pentesting web** (i kinda suck at it). también armé **kerocode**, un fork de opencode que ayuda a conectar requerimientos de clientes con developers de manera automatica y enfocada en equipos.
 
-mi side hobbie es crear apps randoms que se me ocurren a las 1am como [**joseodle**](https://joseodle.vercel.app) y [**mcsrhispano](https://mcsrhispano.vercel.app) o algun que otro mod para minecraft.
+mi hobbie es crear apps randoms que se me ocurren a las 1am como [**joseodle**](https://joseodle.vercel.app) y [**mcsrhispano](https://mcsrhispano.vercel.app) o algun que otro mod para minecraft.
 
 📫 **contacto:** [felipe@rodar.cl](mailto:felipe@rodar.cl)  
 🌐 **portfolio:** [fqkeeh.dev](https://fqkeeh.dev)  
