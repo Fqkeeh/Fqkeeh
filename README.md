@@ -1,110 +1,97 @@
-# Hi there, I'm Felipe Figueroa 👋
+# hey, soy felipe figueroa 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B85C38&center=false&vCenter=true&width=600&lines=CTO+%26+Cofounder+at+Rodar+%7C+KeroKero;Fullstack+Developer;React+%C2%B7+Fastify+%C2%B7+FastAPI+%C2%B7+Python;Building+software+that+scales;From+Chile+%F0%9F%87%A8%F0%9F%87%B1+to+the+world)](https://git.io/typing-svg)
-
----
-
-## About Me
-
-My name is **Felipe Figueroa**, also known as **Fqkeeh**.
-
-I am a **CTO and Cofounder** of [**Rodar**](https://rodar.cl) and [**KeroKero**](https://keroke.ro), building software from **Chile** that solves real problems. My daily work involves leading technical teams, designing system architecture, and making product decisions that directly impact the business.
-
-I move between **React and TypeScript** on the frontend, and **Fastify, Node.js, and FastAPI** on the backend. My real obsession is with data: **scraping information at scale, designing efficient microservices, and building systems that scale** before they look pretty. I also built [**Kerocode**](https://fqkeeh.dev), an internal tool that translates business requirements into precise technical instructions for development teams.
-
-When I'm not leading engineering, I'm coding mods and plugins for Minecraft, building minigames for Twitch communities, or automating things that probably didn't need automation.
-
-📫 **Reach me at:** [felipe@rodar.cl](mailto:felipe@rodar.cl)  
-🌐 **Portfolio:** [fqkeeh.dev](https://fqkeeh.dev)  
-💼 **LinkedIn:** [linkedin.com/in/felipe-figueroa-4827bb319](https://www.linkedin.com/in/felipe-figueroa-4827bb319/)  
-🐦 **Twitter/X:** [@Fqkeh_](https://twitter.com/Fqkeh_)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B85C38&center=false&vCenter=true&width=600&lines=cto+%26+cofundador+de+rodar+%7C+kerokero;fullstack+developer;react+%C2%B7+fastify+%C2%B7+fastapi+%C2%B7+python;construyendo+software+que+escala;desde+chile+%F0%9F%87%A8%F0%9F%87%B1+para+el+mundo)](https://git.io/typing-svg)
 
 ---
 
-## Tech Stack
+## sobre mí
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+mi nombre es **felipe figueroa**, aunque en internet me conocen como **fqkeeh**.
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+soy **cto y cofundador** de [**rodar**](https://rodar.cl) y [**kerokero**](https://keroke.ro). construyo software desde chile que resuelve problemas reales. mi día a día es liderar equipos técnicos, diseñar arquitectura y tomar decisiones de producto que impactan directamente en el negocio.
 
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+me muevo entre **react y typescript** en el frontend, y **fastify, node.js y fastapi** en el backend. mi obsesión real está en los datos: **scrapear información a escala, diseñar microservicios eficientes y pensar sistemas que escalen** antes que se vean bonitos. también armé **kerocode**, una herramienta interna que traduce requerimientos de negocio en instrucciones técnicas precisas para equipos de desarrollo.
 
-### Languages I Code In
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+cuando no estoy liderando ingeniería, estoy codeando mods y plugins para minecraft, construyendo minijuegos para comunidades de twitch, o automatizando cosas que probablemente no necesitaban automatización.
+
+📫 **contacto:** [felipe@rodar.cl](mailto:felipe@rodar.cl)  
+🌐 **portfolio:** [fqkeeh.dev](https://fqkeeh.dev)  
+💼 **linkedin:** [linkedin.com/in/felipe-figueroa-4827bb319](https://www.linkedin.com/in/felipe-figueroa-4827bb319/)  
+🐦 **twitter/x:** [@fqkeh_](https://twitter.com/fqkeh_)
 
 ---
 
-## GitHub Stats
+## stack
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fqkeeh&show_icons=true&theme=graywhite&hide_border=true&title_color=b85c38&icon_color=b85c38&text_color=2d2a26&bg_color=faf8f5" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fqkeeh&theme=graywhite&hide_border=true&stroke=b85c38&ring=b85c38&fire=b85c38&currStreakNum=2d2a26&sideNums=2d2a26&currStreakLabel=b85c38&sideLabels=2d2a26&dates=6b655c&background=faf8f5" />
-</div>
+### frontend
+![react](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![astro](https://img.shields.io/badge/astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
+![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fqkeeh&layout=compact&theme=graywhite&hide_border=true&title_color=b85c38&text_color=2d2a26&bg_color=faf8f5" />
-</div>
+### backend
+![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![fastapi](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
+### base de datos & herramientas
+![postgresql](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Featured Projects
-
-### Professional
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Rodar**](https://rodar.cl) | Fintech ecosystem for car dealerships in Chile. Fleet financing, market intelligence, and ERP. | React, TS, Python |
-| [**KeroKero**](https://keroke.ro) | Software factory with automated phased delivery. Clients choose features and track progress in real time. | React, TS, Node.js |
-| **Kerocode** | Infrastructure that translates business requirements into precise technical instructions for dev teams. | TS, Node.js, Python |
-| **GranMenu** | SaaS for digital restaurant menus. Create, edit, and publish menus via QR with real-time updates. | React, TS, Python |
-
-### Personal / Community
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Joseodle**](https://github.com/Fqkeeh/joseodle) | Twitch emote guessing minigame with 7TV API integration and Canvas rendering. | Astro, React, TS |
-| [**MCSR Hispano**](https://github.com/Fqkeeh/mcsr-hispano) | Resource hub for Spanish-speaking Minecraft speedrunners. Guides, timing tools, and rankings. | Astro, React, TS, Node.js |
-| **Minecraft Mods & Plugins** | Custom mechanics for Bukkit, Spigot, and Fabric servers. | Java |
+### otros lenguajes
+![java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## Connect With Me
+## proyectos
+
+### profesionales
+
+| proyecto | descripción | stack |
+|----------|-------------|-------|
+| [**rodar**](https://rodar.cl) | ecosistema fintech para automotoras en chile. financiamiento sobre flota, inteligencia de mercado y erp. | react, ts, python |
+| [**kerokero**](https://keroke.ro) | software factory con entrega automatizada por fases. el cliente elige funcionalidades y monitorea avance en tiempo real. | react, ts, node.js |
+| **kerocode** | infraestructura que traduce requerimientos de negocio en instrucciones técnicas para devs. | ts, node.js, python |
+| **granmenu** | saas de cartas digitales para restaurantes. creación, edición y publicación vía qr con actualización en tiempo real. | react, ts, python |
+
+### personales / comunidad
+
+| proyecto | descripción | stack |
+|----------|-------------|-------|
+| [**joseodle**](https://github.com/fqkeeh/joseodle) | minijuego de adivinanza de emotes de twitch con integración a la api de 7tv y renderizado en canvas. | astro, react, ts |
+| [**mcsr hispano**](https://github.com/fqkeeh/mcsr-hispano) | plataforma de recursos para la comunidad hispana de speedrunners de minecraft. guías, timing y rankings. | astro, react, ts, node.js |
+| **mods & plugins de minecraft** | mecánicas personalizadas para servidores bukkit, spigot y fabric. | java |
+
+---
+
+## contacto
 
 <div align="left">
   <a href="https://fqkeeh.dev" target="_blank" rel="noopener noreferrer me">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=b85c38" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white&color=b85c38" alt="portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/felipe-figueroa-4827bb319/" target="_blank" rel="noopener noreferrer me">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://twitter.com/Fqkeh_" target="_blank" rel="noopener noreferrer me">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://twitter.com/fqkeh_" target="_blank" rel="noopener noreferrer me">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
   </a>
   <a href="mailto:felipe@rodar.cl" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fqkeeh&color=b85c38&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=fqkeeh&color=b85c38&style=flat-square" alt="visitas al perfil" />
 </div>
 
 <p align="center">
-  <em>Building software that scales and generates real value.</em>
+  <em>construyendo software que escala y genera valor real.</em>
 </p>
