@@ -68,9 +68,9 @@ mi hobbie es crear apps randoms que se me ocurren a las 1am como [**joseodle**](
 
 <div align="left">
   <a href="https://fqkeeh.dev" target="_blank" rel="noopener noreferrer me">
-    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white&color=b85c38" alt="portfolio" />
+    <img src="https://fqkeeh.dev/favicon.svg" alt="portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/felipe-figueroa-4827bb319/" target="_blank" rel="noopener noreferrer me">
+  <a href="https://www.linkedin.com/in/felipefigueroaf/" target="_blank" rel="noopener noreferrer me">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://twitter.com/fqkeh_" target="_blank" rel="noopener noreferrer me">
