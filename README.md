@@ -40,9 +40,6 @@ mi hobbie es crear apps randoms que se me ocurren a las 1am como [**joseodle**](
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### otros lenguajes
-![java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
 ---
 
 ## proyectos
