@@ -1,6 +1,6 @@
 # hola, soy felipe figueroa 🤓
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B85C38&center=false&vCenter=true&width=600&lines=cto+%26+cofundador+de+rodar+%7C+kerokero;fullstack+developer;react+%C2%B7+fastify+%C2%B7+fastapi+%C2%B7+python;construyendo+software+que+escala;desde+chile+%F0%9F%87%A8%F0%9F%87%B1+para+el+mundo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B85C38&center=false&vCenter=true&width=600&lines=cto+%26+cofundador+de+rodar+%7C+kerokero;fullstack+developer;react+%C2%B7+fastify+%C2%B7+fastapi+%C2%B7+python;construyendo+software+que+escala;del+mejor+pais+de+chile+%F0%9F%87%A8%F0%9F%87%B1)](https://git.io/typing-svg)
 
 ---
 
