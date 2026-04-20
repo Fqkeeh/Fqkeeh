@@ -10,7 +10,7 @@ mi nombre es **felipe figueroa**, en internet suelo usar el nombre de **fqkeeh**
 
 soy **cto y cofundador** de [**rodar**](https://rodar.cl) y [**kerokero**](https://keroke.ro). intentando crear cosas que hagan el cambio.
 
-uso **react y typescript** en el frontend, y **fastify, node.js y fastapi** en el backend. mi obsesión real está en **scrapear información** y hacer **pentesting web** (i kinda suck at it). también armé **kerocode**, una herramienta interna que traduce requerimientos de negocio en instrucciones técnicas precisas para equipos de desarrollo.
+uso **react y typescript** en el frontend, y **fastify, node.js y fastapi** en el backend. mi obsesión real está en **scrapear información** y hacer **pentesting web** (i kinda suck at it). también armé **kerocode**, un fork de opencode que ayuda a conectar requerimientos de clientes con developers de manera automatica y enfocada en equipos.
 
 mi side hobbie es crear apps randoms que se me ocurren a las 1am como [**joseodle**](https://joseodle.vercel.app) y [**mcsrhispano](https://mcsrhispano.vercel.app) o algun que otro mod para minecraft.
 
@@ -53,7 +53,7 @@ mi side hobbie es crear apps randoms que se me ocurren a las 1am como [**joseodl
 |----------|-------------|-------|
 | [**rodar**](https://rodar.cl) | ecosistema fintech para automotoras en chile. financiamiento sobre flota, inteligencia de mercado y erp. | react, ts, python |
 | [**kerokero**](https://keroke.ro) | software factory totalmente automatizada. el cliente elige funcionalidades y monitorea avance en tiempo real. | react, ts, node.js |
-| **kerocode** | editor de codigo que integra clientes con developers. | ts, node.js, python |
+| **kerocode** | un fork de opencode que ayuda a conectar requerimientos de clientes con developers de manera automatica y enfocada en equipos | ts, node.js, python |
 ### personales
 
 | proyecto | descripción | stack |
