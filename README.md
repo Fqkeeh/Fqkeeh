@@ -55,6 +55,7 @@ mi hobbie es crear apps randoms que se me ocurren a las 1am como [**joseodle**](
 
 | proyecto | descripción | stack |
 |----------|-------------|-------|
+| [**chattrbox**](https://chattrbox.club) | red social para streamers y sus comunidades | react, elysia, supabase |
 | [**joseodle**](https://github.com/fqkeeh/joseodle) | minijuego en el que tu objetivo es adivinar emotes de **7tv** | svelte, supabase, socketio |
 | [**mcsr hispano**](https://github.com/fqkeeh/mcsr-hispano) | plataforma de recursos para la comunidad hispana de speedrunners de minecraft. guías, recursos y rankings. | astro |
 | **mods de minecraft** | cada tanto me da por crear mods randoms. | java |
